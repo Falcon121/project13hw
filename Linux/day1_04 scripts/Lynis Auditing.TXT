@@ -1,0 +1,9 @@
+#! /bin/bash
+
+#Installs Lynis if not already on system
+
+sudo apt install lynis
+
+#command to run audit and to see security scan details
+
+sudo lynis audit system
