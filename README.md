@@ -1,8 +1,8 @@
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
+[(GB_project13hw/Images/Diagrams/network_diagram.png)]
 
-![network_diagram](https://user-images.githubusercontent.com/89615641/146463418-e4becbce-eeeb-447a-a388-e50ededed3f1.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook.yml file may be used to install only certain pieces of it, such as Filebeat.
 /etc/ansible/ansible.cfg- configure file for ansible
